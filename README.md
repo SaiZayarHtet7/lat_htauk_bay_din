@@ -1,16 +1,8 @@
-# lat_htauk_bay_din
+# လက်ထောက်ဗေဒင် app
 
-A new Flutter project.
+flutter_bloc နဲ့ရေးထားပါတယ်
 
-## Getting Started
+UI ကတော့ သိပ်မပါပါဘူး။ ရှင်းရှင်းလေးပါ။ မေးခွန်းရှာမယ်။​ပြီးရင် လက်ထောက်မယ်။​ အဖြေပြမယ်။​ ဒါပါပဲ​
 
-This project is a starting point for a Flutter application.
+## Video 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
