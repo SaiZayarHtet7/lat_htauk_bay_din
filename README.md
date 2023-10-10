@@ -8,6 +8,3 @@ UI ကတော့ သိပ်မပါပါဘူး။ ရှင်းရှ
 
 
 [![Watch the video](https://img.youtube.com/vi/ycYFNcVopis/hqdefault.jpg)](https://www.youtube.com/embed/ycYFNcVopis)
-
-[<img src="https://img.youtube.com/vi/ycYFNcVopis/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/ycYFNcVopis)
